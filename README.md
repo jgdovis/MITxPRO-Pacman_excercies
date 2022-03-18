@@ -24,3 +24,21 @@ Controls the images of multiple PacMan's by simulating their movement in the win
 
 ## Licence 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) *The MIT License*
+
+Root
+index.html
+LICENSE
+pacmen.js
+README.md
+/images
+PacMan1.png
+PacMan2.png
+PacMan3.png
+PacMan4.png
+/styles
+styles.css
+
+
+
+
+live Pacman factory https://jgdovis.github.io/MITxPRO-Pacman_excercies/
